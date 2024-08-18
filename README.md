@@ -1,7 +1,7 @@
-### 👋 Hello, my name is Anishvar Singaram, or Anish for short.
-### 📚 I'm currently pursuing a Bachelor's Degree in Computer Engineering at SDSU. 
-### 👯 My extracurricular activities are doing research and SDSU Rocket Project.
-### ❤️ My field of interest is Hardware Systems. 
+### 👋 Hello, my name is Anishvar Singaram (or Anish for short).
+### 📚 I'm currently a Computer Engineering Undergraduate @ SDSU. 
+### 👯 My hobbies include hiking and making electronic music.
+### ❤️ My field of interest is Embedded/Digital Systems. 
 
 <!--
 **locks645/locks645** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
