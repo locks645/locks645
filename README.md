@@ -1,5 +1,5 @@
 ### 👋 Hello, my name is Anishvar Singaram (or Anish for short).
-### 📚 I'm currently a Computer Engineering Undergraduate @ SDSU. 
+### 📚 I graduated from SDSU with a BS in Computer Engineering. 
 ### 👯 My hobbies include hiking and making electronic music.
 ### ❤️ My field of interest is Embedded/Digital Systems. 
 
